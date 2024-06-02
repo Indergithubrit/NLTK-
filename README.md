@@ -1,1 +1,1 @@
-# NLTK-
+This is a NLTK (Natural language processing) file where i have apply many NLTK functions like 'Removing stopwords','count vectorizer','td-idf vectorizer','word tokenizing','stemming and lemmatization','sentiment analysis'.
